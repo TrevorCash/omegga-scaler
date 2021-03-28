@@ -4,14 +4,13 @@
 
 `cd plugins`
 
-`git clone git://github.com/voximity/omegga-raytracer.git`
+
 
 ## Usage
-
-`!trace <yaw> <pitch>`
-
-`!set <setting> <value>`
-
+!scale 2
+!scale 1/2
+!scale 10
+etc..
 ## Contributing
 
 Feel free! If you wish to turn this experiment into something more practical, open a PR!
