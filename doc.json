@@ -1,0 +1,14 @@
+{
+    "name": "Scaler",
+    "description": "Scales Things",
+    "author": "MeltingPlastic",
+    "config": {
+    },
+    "commands": [
+        {
+            "name": "!scale",
+            "description": "scales a build",
+            "args": []
+        }
+    ]
+}
